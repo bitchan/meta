@@ -1,10 +1,10 @@
-# docs
+# bitchan meta
 
-This repository contains [main bitchan wiki](https://github.com/bitchan/docs/wiki) and also some miscellaneous information.
+This repository contains [main bitchan wiki](https://github.com/bitchan/meta/wiki) and other meta information.
 
 ## License
 
-docs - bitchan documentation
+bitchan meta - bitchan documentation and other meta information
 
 Written in 2014 by Kagami Hiiragi <kagami@genshiken.org>
 
